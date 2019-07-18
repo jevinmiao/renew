@@ -6,5 +6,4 @@
 
 **目录：**
 
-![skipfile=/^(charge:renew:concepts)$/ nsort dsort
-msort](/indexmenu\>/charge/renew#1)
+{{indexmenu>:charge:renew#1 | nsort dsort msort}}
